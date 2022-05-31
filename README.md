@@ -20,14 +20,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 Users should be able to:
 
 - View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Select and submit a number rating
-- See the "Thank you" card state after submitting a rating
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SadickYahaya/Interactive-Rating-Component)
-- Live Site URL: [Add live site URL here](https://app.netlify.com/sites/interactive-rating-component2022/settings/general)
+- Solution URL: [Add solution URL here](https://github.com/SadickYahaya/Stats-Preview)
+- Live Site URL: [Add live site URL here](https://stats-preview2022.netlify.app/)
 
 ## My process
 
