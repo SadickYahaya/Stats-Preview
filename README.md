@@ -10,7 +10,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -23,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SadickYahaya/Stats-Preview)
-- Live Site URL: [Add live site URL here](https://stats-preview2022.netlify.app/)
+- Solution URL: [Github](https://github.com/SadickYahaya/Stats-Preview)
+- Live Site URL: [Netlify](https://stats-preview2022.netlify.app/)
 
 ## My process
 
@@ -34,14 +33,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
-### What I learned
-
-- Basic DOM Manipulation
-
-### Continued development
-
-- Advance JavaScript DOM Manipulation
 
 ## Author
 
